@@ -2,8 +2,3 @@ Hello-Git
 Welcome-to-Git
 Git-revert-practice
 Login-Feature-Implemented
-<<<<<<< HEAD
-Main-Branch-Updated
-=======
-Payment-Feature-Implemented
->>>>>>> feature-payment
